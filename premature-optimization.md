@@ -8,3 +8,5 @@ You should not think about stuff like **performance, caching, global state manag
 
 ![](.gitbook/assets/i5zmo82jtriw2ygj53i0lsmsd-ddaekofxhujgo2qng.jpg)
 
+Is good not good enough?
+
