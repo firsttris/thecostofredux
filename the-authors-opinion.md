@@ -16,3 +16,7 @@ There are also some twitter posts where he expressed his thoughts
 
 ![](.gitbook/assets/image%20%282%29.png)
 
+Create your own picture
+
+But to me it seems you should use Redux only if there is a really good reason todo so
+
