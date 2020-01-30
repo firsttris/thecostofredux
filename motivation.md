@@ -10,5 +10,5 @@ Don't worry at some point i also fell for it, till I saw others [questioning it]
 
 Since in every project I had to start again and again explaining why it is not a good idea to design everything in the application with redux, I wrote it down. So I can just send this link to the people.
 
-Please take my opinion with a grain of salt, other developers have other opinions and I respect that.
+Please take my opinion with a grain of salt, other developers like to create many files and I respect that.
 
