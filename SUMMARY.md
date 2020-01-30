@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Motivation](README.md)
+* [Readme](README.md)
+* [Motivation](motivation.md)
 * [JavaScript is very fragile](javascript-is-very-fragile.md)
 * [Notification bug and the creation of Flux](creation-of-flux.md)
 * [When should i use Redux?](when-should-i-use-redux.md)
