@@ -1,5 +1,5 @@
 ---
-description: Premature optimization is the root of all evil
+description: Simply don't do it..
 ---
 
 # Premature optimization is the root of all evil
