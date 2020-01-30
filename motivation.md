@@ -6,7 +6,7 @@ I have worked on single page application for [several big companies](https://fir
 
 I have seen many projects fail, choosing complex state management solutions before they really need it.
 
-Don't worry at some point i also fell for it, till I saw others [questioning it](https://youtu.be/Q54YDGC_t3Y?t=357). 
+At some point I also thought it was the only way, till i saw others [questioning it](https://youtu.be/Q54YDGC_t3Y?t=357). 
 
 Since in every project I had to start again and again explaining why it is not a good idea to design everything in the application with redux, I wrote it down. So I can just send this link to the people.
 
