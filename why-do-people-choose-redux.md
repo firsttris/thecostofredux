@@ -20,7 +20,7 @@ Here are some other reasons I heard from people over the years:
 * They think it doesn't scale without it, but most often it doesn't scale with Redux.
 * They think its the best practice for React, but its not.
 * They think they might need it in the future, but they don't.
-* They think they need it for caching, but they didn't even think about cache validation.
+* They think they need it for caching, but they didn't even think about cache invalidation.
 * They think they can better trace their state changes, but big stores are often more confusing than local state changes.
 
 
