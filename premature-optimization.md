@@ -6,7 +6,7 @@ description: Simply don't do it..
 
 You should not think about stuff like **performance, caching, global state management** when starting an application.
 
-![](.gitbook/assets/i5zmo82jtriw2ygj53i0lsmsd-ddaekofxhujgo2qng.jpg)
+_“The real problem is that programmers have spent far too much time worrying about efficiency in the wrong places and at the wrong times; premature optimization is the root of all evil \(or at least most of it\) in programming.”_
 
-Is good not good enough?
+Isn't good not good enough?
 
