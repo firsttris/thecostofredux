@@ -4,7 +4,7 @@ description: Main Author Dan Abramov created a blog post on Medium
 
 # The Author's opinion
 
-Dan is a super intelligent and very nice guy. Have you even seen someone this critic about his own creation?
+Dan is a super intelligent and also very nice guy. Have you even seen someone this critic about his own creation?
 
 ![](.gitbook/assets/image%20%283%29.png)
 
