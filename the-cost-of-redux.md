@@ -5,10 +5,8 @@ description: 'Everything comes with a price, doesn''t it?'
 # The Cost of Redux
 
 * Considerably more boilerplate code.
-* Everything takes easily twice the time.
-* Todo simple things you have to create many files and alot of code.
-* More code causes more errors which needs more tests.
-* Harder to follow the flow of the application .
+* More code causes more errors which needs more testing.
+* Harder to follow the flow of the application.
   * You need to understand more code.
 * You possibly introduce new problems at another place.
 * Application will be slow on older devices.
