@@ -20,3 +20,5 @@ There are also some twitter posts \(two years later\) where he expressed his tho
 
 Create your own picture
 
+But if you choosed to use Redux for everything i think you took this whole thing to serios.
+
