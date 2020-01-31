@@ -1,6 +1,6 @@
 # Motivation
 
-Hey I'm [Tristan](https://github.com/firsttris) a Js/Ts Developer and [Clean Code](https://www.youtube.com/watch?v=UjhX2sVf0eg) advocate.
+Hey my name is [Tristan](https://github.com/firsttris) I'm a web developer and [Clean Code](https://www.youtube.com/watch?v=UjhX2sVf0eg) advocate.
 
 I have worked on single page application for [several big companies](https://firsttris.github.io/gatsby-cv/) and wanted to share my experience on state management in reactive apps with you.
 
