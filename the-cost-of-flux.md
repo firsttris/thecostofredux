@@ -5,7 +5,7 @@ description: Everything comes with a cost doesn't it?
 # The Cost of Redux
 
 * Up to 30-50% more code
-* Todo simple things you have to create much files & code
+* Todo simple things you have to create many files
 * More code causes more errors which needs more tests
 * Harder to follow the flow of the application \(you need to understand many files\)
 * You potentially introduce new problems like “stale data”
