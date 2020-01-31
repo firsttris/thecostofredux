@@ -12,7 +12,7 @@ Arround this time he stopped contributing to the project. \(He also started work
 
 ![](.gitbook/assets/image%20%282%29.png)
 
-There are also some twitter posts where he expressed his thoughts
+There are also some twitter posts \(two years later\) where he expressed his thoughts
 
 ![](.gitbook/assets/image%20%284%29.png)
 
