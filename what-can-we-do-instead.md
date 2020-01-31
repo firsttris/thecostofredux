@@ -21,7 +21,7 @@ description: Build micro frontends instead monolithic frontends
 
 
 
-And if there is no other way arround it you could still use
+And if there really is no other way arround it you could still use
 
 * React Context
 * useReducer\(\) hook
