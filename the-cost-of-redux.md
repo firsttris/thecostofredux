@@ -5,14 +5,11 @@ description: 'Everything comes with a price, doesn''t it?'
 # The Cost of Redux
 
 * Considerably more boilerplate code.
-* More code causes more errors which needs more testing.
-* Harder to follow the flow of the application.
-  * You need to understand more code.
-* You possibly introduce new problems at another place.
-* Application will be slow on older devices.
-  * [Simply because there is more code for the browser](https://www.youtube.com/watch?v=ff4fgQxPaO0).
-* More dependencies.
-  * Depending between 10-30.
+  * More code causes more errors which needs more testing.
+  * Harder to follow the flow of the application.
+  * [Application will be slow on older devices](https://www.youtube.com/watch?v=ff4fgQxPaO0).
+* One large global state is often more confusing and complex than many decentralized local states.
+* Significantly more dependencies.
 * Creating new features is more expensive.
 * Introducing new developers is more expensive.
 * Harder to refactor in ~3-5 years.
