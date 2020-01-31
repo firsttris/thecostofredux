@@ -18,5 +18,5 @@ The downside of this pattern was it required a lot of boilerplate code.
 
 But remember, this was a very special case
 
-And everything code at a price
+And everything comes at a price
 
