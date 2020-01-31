@@ -1,8 +1,8 @@
 ---
-description: No it's not!
+description: No it's doesnt!
 ---
 
-# Is Redux best practice?
+# Does I need Redux?
 
 ## Seriously! Most apps are perfectly fine without Redux
 
