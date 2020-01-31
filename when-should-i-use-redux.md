@@ -10,5 +10,11 @@ description: This explanation seemed strange but think about the notifications
 * You need a single source of truth for your state.
 * You find that keeping all your state in a top-level component is no longer sufficient.
 
-Dan Abramov \(The Author\) said: Don't use Redux until you have problems with vanilla React.
+
+
+
+
+* When the server sends messages to the client you would probably have some kind of message provider which could act as global reducer who updates the components.
+* You have many state updates from different places and keeping state in parent component is no longer sufficient. \(Notification bar\)
+* You need money and want to extend your contract.
 
