@@ -10,5 +10,7 @@ _“The real problem is that programmers have spent far too much time worrying a
 
 \_\_[_Donalt Knuth_](https://en.wikipedia.org/wiki/Donald_Knuth)\_\_
 
+The biggest problems with "premature optimization" are that it can introduce new unexpected bugs and can be a huge time waster.
+
 Isn't good not good enough?
 
