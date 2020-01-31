@@ -1,8 +1,10 @@
 ---
-description: This explanation seemed strange but think about the notification bar
+description: This explanation seemed strange but think about the notifications
 ---
 
 # When should i use Redux?
+
+![](.gitbook/assets/image%20%285%29.png)
 
 * You have reasonable amounts of data changing over time.
 * You need a single source of truth for your state.
