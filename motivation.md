@@ -12,3 +12,5 @@ Since in every project I had to start again and again explaining why it is not a
 
 Please take my opinion with a grain of salt, other developers like to create many files and I respect that.
 
+Im always reffering to React, but this also applies for Vue, Angular or other reactive frameworks.
+
