@@ -1,6 +1,4 @@
-# Gitbook
-https://firsttris.gitbook.io/thecostofredux/
+# Readme
 
-
-
+[https://firsttris.gitbook.io/thecostofredux/](https://firsttris.gitbook.io/thecostofredux/)
 

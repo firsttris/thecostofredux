@@ -6,11 +6,11 @@ description: everything in the supermarket is for free
 
 Think about it like this:
 
-Imagine everything in the supermarket is free. You would try to get as much cool stuff as possible without thinking what you really need. 
+Imagine everything in the supermarket is free. You would try to get as much stuff as possible without thinking what you really need. 
 
-It is similar for developers with dependencies. They want all the shiny fancy tools in their project.
+It is similar for developers with dependencies. They want all the shiny fancy tools in their project without considering the possible downsides.
 
-![](.gitbook/assets/image%20%283%29.png)
+![](.gitbook/assets/image%20%284%29.png)
 
 But I think there are other reasons, they want to learn them. How else can you say of yourself that you are a professional in Redux?
 
