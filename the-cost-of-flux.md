@@ -17,7 +17,7 @@ description: Everything comes with a price doesn't it?
   * Depending between 10-30.
 * Creating new features is more expensive.
 * Introducing new developers is more expensive.
-* Harder to refactor ~3-5 years.
+* Harder to refactor in ~3-5 years.
 
 ![](.gitbook/assets/image.png)
 
