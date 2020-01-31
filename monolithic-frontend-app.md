@@ -14,5 +14,3 @@ Does this sound adventurous? Believe me it really is!
 
 Now is a good time to recruit new developers. Because you will need them!
 
-The new way of calculating this would be two times the number of backend engineers.
-
