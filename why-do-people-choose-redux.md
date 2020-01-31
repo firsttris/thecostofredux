@@ -18,7 +18,7 @@ Another reason might be that most React developers are rather young and most lik
 
 Here are some other reasons I heard in projects over the years:
 
-* They think its structuring their application better, but React in general is structured very well.
+* They think its structuring their application better, but React in general is structured very well. \(Atomic Design\)
 * They think it doesn't scale without it, but most often it doesn't scale with Redux.
 * They think its the best practice for React, but its not.
 * They think they might need it in the future, but they don't.
