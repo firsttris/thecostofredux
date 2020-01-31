@@ -8,5 +8,7 @@ You should not think about stuff like **performance, caching, global state manag
 
 _“The real problem is that programmers have spent far too much time worrying about efficiency in the wrong places and at the wrong times; premature optimization is the root of all evil \(or at least most of it\) in programming.”_
 
+\_\_[_Donalt Knuth_](https://en.wikipedia.org/wiki/Donald_Knuth)\_\_
+
 Isn't good not good enough?
 
