@@ -1,5 +1,5 @@
 ---
-description: Everything comes with a cost doesn't it?
+description: Everything comes with a price doesn't it?
 ---
 
 # The Cost of Redux
@@ -18,4 +18,6 @@ description: Everything comes with a cost doesn't it?
 * Creating new features is more expensive.
 * Introducing new developers is more expensive.
 * Harder to refactor ~3-5 years.
+
+![](.gitbook/assets/image.png)
 

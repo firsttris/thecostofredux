@@ -8,7 +8,7 @@ description: This explanation seemed strange but think about the notification ba
 * You need a single source of truth for your state
 * You find that keeping all your state in a top-level component is no longer sufficient
 
-![](.gitbook/assets/image%20%285%29.png)
+![](.gitbook/assets/image%20%286%29.png)
 
 
 
