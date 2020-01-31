@@ -14,7 +14,7 @@ The Flux pattern was able to solve this issue with an unidirectional data flow.
 
 ![](.gitbook/assets/flux-simple-f8-diagram-1300w.png)
 
-When you have many state updates from all over the application as well as from the server causing a re-render on the same component, the Flux pattern can help to track unwanted state manipulations. It gives you the ability to check who dispatched this action.
+When you have many state updates from all over the application as well as from the server causing a re-render on the same component, the Flux pattern can help to track unwanted state manipulations. It gives you the ability to trace who dispatched this action.
 
 The downside of this pattern is it requires a lot of boilerplate code.
 
