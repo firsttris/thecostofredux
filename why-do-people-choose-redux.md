@@ -6,15 +6,15 @@ description: shiny fancy tools
 
 Think about it like this:
 
-Imagine everything on amazon is free. You would try to get as much cool stuff as possible without thinking what you really need. 
+Imagine everything on Amazon is free. You would try to get as much cool stuff as possible without thinking what you really need. 
 
 It is similar for developers with shiny tools. They want all the cool stuff in their project without considering the possible downsides.
 
 ![](.gitbook/assets/image%20%287%29.png)
 
-But I think there are other reasons as well, educational. Being a developer means you always have to learn new things. You don't want to get left behind. How else can you say of yourself that you are a professional in Redux?
+But I think there are other reasons as well. Being a developer means you always have to learn new things. You don't want to get left behind. How else can you say of yourself that you are a professional in Redux?
 
-Another reason might be that most React developers are rather young and most likely just started a tutorial pointing in the direction, that this would be the best practice for a good structured React App.
+Another reason might be that most React developers are rather young and most likely just started a tutorial suggesting Redux would be the best practice for a well structured React app.
 
 Here are some other reasons I heard in projects over the years:
 
