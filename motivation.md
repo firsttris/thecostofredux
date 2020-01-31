@@ -12,7 +12,7 @@ Don't worry! At some point we all fell for it, until we saw other people [questi
 
 In every new project I had to explain all over why it is not a good idea to design everything in the application with Redux. I created this Gitbook to share my opinion on state management with you.
 
-Please take my opinion with a grain of salt, other developers like to create many files and I respect that.
+Please take my opinion with a grain of salt, I learned that there is more than one way to skin a cat.
 
 Im always reffering to React, but this also applies for Vue, Angular or similar reactive frameworks.
 
