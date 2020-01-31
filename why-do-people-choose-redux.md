@@ -14,6 +14,8 @@ It is similar for developers with shiny tools. They want all the cool stuff in t
 
 But I think there are other reasons as well, educational. Being a developer means you always have to learn new things. You don't want to get left behind. How else can you say of yourself that you are a professional in Redux?
 
+Another reason might be that most React developers are rather young and most likely just started a tutorial pointing in the direction, that this would be the best practice for a good structured React App.
+
 Here are some other reasons I heard in projects over the years:
 
 * They think its structuring their application better, but React in general is structured very well.
