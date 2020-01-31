@@ -10,5 +10,5 @@ Think about it, all this affort for a stateless protocol? If the user switches a
 
 ![](.gitbook/assets/image%20%287%29.png)
 
-One route is generally manageable even if you hold the state in the parent component. In most cases its still more clean then a flux like architecture.
+One route is generally manageable even if you hold the state in the parent component. In most cases it's still more clean then a flux like architecture.
 
