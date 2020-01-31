@@ -2,7 +2,7 @@
 description: This explanation seemed strange but think about the notifications
 ---
 
-# Should I use Redux?
+# When should I use Redux?
 
 ![](.gitbook/assets/image%20%285%29.png)
 

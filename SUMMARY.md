@@ -5,7 +5,7 @@
 * [JavaScript is very fragile](javascript-is-very-fragile.md)
 * [The Notification Bug](the-notification-bug.md)
 * [Do I need Redux?](do-i-need-redux.md)
-* [Should I use Redux?](should-i-use-redux.md)
+* [When should I use Redux?](when-should-i-use-redux.md)
 * [The Cost of Redux](the-cost-of-redux.md)
 * [Why do people choose Redux before they need it?](why-do-people-choose-redux.md)
 * [The Monolithic Frontend App](monolithic-frontend-app.md)
