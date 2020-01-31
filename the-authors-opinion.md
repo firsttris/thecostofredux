@@ -20,5 +20,3 @@ There are also some twitter posts \(two years later\) where he expressed his tho
 
 Create your own picture
 
-But to me it seems you should only use Redux if there is a really good reason todo so
-
