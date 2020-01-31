@@ -1,5 +1,5 @@
 ---
-description: Build micro frontends - not monolithic frontends
+description: Build micro frontends instead monolithic frontends
 ---
 
 # What can we do instead?
