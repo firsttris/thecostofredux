@@ -16,9 +16,7 @@ Here are some suggestions on when it makes sense to use Redux:
 * You need a single source of truth for your state
 * You find that keeping all your state in a top-level component is no longer sufficient
 
-#### Good usecases for a flux like architecture
-
-\(From my project expirience\)
+#### Good usecases for a flux like architecture - from my project expirience
 
 * When the server sends messages to the client you would probably have some kind of message provider which could act as global reducer who updates the components.
 * You have many state updates from different places and keeping state in parent component is no longer sufficient.
