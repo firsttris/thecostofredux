@@ -10,7 +10,7 @@ The Main Author wrote a blog post on Medium about this Topic
 
 [Full read](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
 
-Arround this time he stopped contributing to the project. \(He also started working at Facebook\)
+Arround this time he stopped contributing to the project.
 
 ![](.gitbook/assets/image%20%282%29.png)
 
