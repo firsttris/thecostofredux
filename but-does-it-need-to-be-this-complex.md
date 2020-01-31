@@ -1,12 +1,12 @@
 ---
-description: No it doesn't!
+description: No it's not!
 ---
 
-# But does it need to be this complex?
+# Is Redux best practice?
 
 ## Seriously! Most apps are perfectly fine without Redux
 
-Think about it, all this affort for a stateless protocol? If the user switches a route or reloads its browser the store is gone anyway. Means the only way to really persist information is in the URI. 
+Think about it, all this affort for a stateless protocol? If the user switches a route or reloads its browser everything is gone anyway. Means the only reliable way share information is in the URI. Because probably you need that some Id to fetch the data from the server.
 
 ![](.gitbook/assets/image%20%287%29.png)
 
