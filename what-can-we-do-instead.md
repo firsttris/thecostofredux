@@ -13,6 +13,7 @@ description: Build micro frontends - not monolithic frontends
 ### On the Client Side
 
 * Always start without Redux or any other state management solution.
+* Create al Class which contains all you API calls.
 * Use the [Fetch](https://reactjs.org/docs/faq-ajax.html) API in componentDidMount\(\) or UseEffect\(\) to load you data and hold the state in the component \(Smart Component\).
 * Try to use [Component Composition](https://reactjs.org/docs/composition-vs-inheritance.html) to reverse the flow of control if needed.
 * You can persist information in the URI, and it will always be the better way, simply because http is stateless.
