@@ -8,7 +8,7 @@ description: Main Author Dan Abramov created a blog post on Medium
 
 [Full read](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
 
-Arround this time he stopped contributing to the project
+Arround this time he stopped contributing to the project. \(He also started working at Facebook\)
 
 ![](.gitbook/assets/image%20%282%29.png)
 
