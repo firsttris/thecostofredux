@@ -10,3 +10,5 @@ description: But you choose to use Redux for everything
 
 Now it's time to recruit new developers. Because you will need alot!
 
+The new way of calculating this would be number of backened developer times two.
+
