@@ -10,7 +10,7 @@ The Main Author wrote a blog post on Medium about this Topic
 
 [Full read](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367)
 
-Arround this time he stopped contributing to the project.
+Arround this time he stopped contributing to this project.
 
 ![](.gitbook/assets/image%20%282%29.png)
 
@@ -20,7 +20,5 @@ There are also some twitter posts \(two years later\) where he expressed his tho
 
 Create your own picture
 
-But if you choosed to use Redux for everything i think you took this whole thing to serios.
-
-Its just one tool in our toolbox, for a very speical case.
+But its just one tool in our toolbox, for a very speical case.
 
