@@ -24,6 +24,7 @@ Here are some other reasons I heard in projects over the years:
 * They think they might need it in the future, but they don't.
 * They think they need it for caching, but they didn't even think about cache invalidation.
 * They think they can better trace their state changes, but big stores are often more confusing than local state changes.
+* They think its easier for the developers to always create the sames files, but without Redux they wouldn't even have to create those files.
 
 
 
