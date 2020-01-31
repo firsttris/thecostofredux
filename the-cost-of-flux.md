@@ -4,14 +4,18 @@ description: Everything comes with a cost doesn't it?
 
 # The Cost of Redux
 
-* Up to 30-50% more code
-* Todo simple things you have to create much files & code
-* More code causes more errors which needs more tests
-* Harder to follow the flow of the application \(you need to understand many files\)
-* You potentially introduce new problems like “stale data”
-* Application will be slow on older devices \(more code for the browser\)
-* More dependencies \( depending 10-20+ \)
-* Creating new features is more expensive
-* Introducing new developers is more expensive
-* Harder to refactor \(~5 years\)
+* Up to 30-50% more code.
+* Everything takes easily twice the time.
+* Todo simple things you have to create many files and alot of code.
+* More code causes more errors which needs more tests.
+* Harder to follow the flow of the application .
+  * You need to understand more code, more files.
+* You introduce new problems at another place.
+* Application will be slow on older devices.
+  * [Simply because ther is more code for the browser](https://www.youtube.com/watch?v=ff4fgQxPaO0).
+* More dependencies.
+  * Depending between 10-30.
+* Creating new features is more expensive.
+* Introducing new developers is more expensive.
+* Harder to refactor ~3-5 years.
 
