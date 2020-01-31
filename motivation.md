@@ -1,5 +1,5 @@
 ---
-description: At some point I was really tired
+description: At some point I was really tired explaining
 ---
 
 # Motivation
