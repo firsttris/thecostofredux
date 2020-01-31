@@ -6,7 +6,7 @@ description: at some point i was really tired explaining...
 
 Hey my name is [Tristan](https://github.com/firsttris) I'm a web developer and [Clean Code](https://www.youtube.com/watch?v=UjhX2sVf0eg) advocate.
 
-I have worked on single page application for [several big companies](https://firsttris.github.io/gatsby-cv/) and wanted to share my experience on state management in reactive apps with you.
+I have worked on single page application for [several companies](https://firsttris.github.io/gatsby-cv/) and wanted to share my experience on state management with you.
 
 I have seen many projects fail, choosing complex state management solutions before they really need it.
 
@@ -16,5 +16,5 @@ Since in every project I had to start again and again explaining why it is not a
 
 Please take my opinion with a grain of salt, other developers like to create many files and I respect that.
 
-Im always reffering to React, but this also applies for Vue, Angular or other reactive frameworks.
+Im always reffering to React, but this also applies for Vue, Angular or similar reactive frameworks.
 
