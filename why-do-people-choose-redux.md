@@ -8,7 +8,7 @@ Think about it like this:
 
 Imagine everything on amazon is free. You would try to get as much cool stuff as possible without thinking what you really need. 
 
-It is similar for developers with dependencies. They want all the shiny fancy tools in their project without considering the possible downsides.
+It is similar for developers with shiny tools. They want all the cool stuff in their project without considering the possible downsides.
 
 ![](.gitbook/assets/image%20%285%29.png)
 
