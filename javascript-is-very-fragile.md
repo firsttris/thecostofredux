@@ -8,7 +8,7 @@ Try to hold you application clean and easy so you can easily adjust it to change
 
 ![](.gitbook/assets/screenshot_20200129_221617.png)
 
-One of the most important things about your application \(besides that it solves the usecase\) is that others understand it well. Don't try to create something particularly clever or complex.
+One of the most important things about your application \(besides that it solves the usecase\) is that others understand it well. Don't try to create something unnecessarily complex or particularly clever.
 
 
 
