@@ -11,6 +11,5 @@
 * [Why do people choose Redux before they need it?](why-do-people-choose-redux.md)
 * [The Monolithic Frontend App](monolithic-frontend-app.md)
 * [The Author's opinion](the-authors-opinion.md)
-* [Usecases for a Redux Architecture](usecases-for-a-redux-architecture.md)
 * [What can we do instead?](what-can-we-do-instead.md)
 
