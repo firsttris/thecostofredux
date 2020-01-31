@@ -1,5 +1,5 @@
 ---
-description: Web development was okay till they indroduced flux...
+description: Web development was okay till the notification bug
 ---
 
 # Notification bug and the creation of Flux
