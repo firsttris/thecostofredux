@@ -10,7 +10,7 @@ description: Everything comes with a price doesn't it?
 * More code causes more errors which needs more tests.
 * Harder to follow the flow of the application .
   * You need to understand more code, more files.
-* You introduce new problems at another place.
+* You possibly introduce new problems at another place.
 * Application will be slow on older devices.
   * [Simply because ther is more code for the browser](https://www.youtube.com/watch?v=ff4fgQxPaO0).
 * More dependencies.
