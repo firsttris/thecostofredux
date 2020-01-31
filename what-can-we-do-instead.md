@@ -15,9 +15,14 @@ description: Build micro frontends - not monolithic frontends
 * Always start without Redux or any other state management solution.
 * Create al Class which contains all you API calls.
 * Use the [Fetch](https://reactjs.org/docs/faq-ajax.html) API in componentDidMount\(\) or UseEffect\(\) to load you data and hold the state in the component \(Smart Component\).
-* Try to use [Component Composition](https://reactjs.org/docs/composition-vs-inheritance.html) to reverse the flow of control if needed.
+* Try to use [Component Composition](https://reactjs.org/docs/composition-vs-inheritance.html) to reverse the flow of control whenever needed.
 * You can persist information in the URI, and it will always be the better way, simply because http is stateless.
 * You can use Singletons \(HoC‘s\) which are on the Router level or above \(e.g. for Security ProtectedRoutes\).
-* You could still use React Context
-* You could still use useReducer\(\)
+
+
+
+And if there is no other way arround it you could still use
+
+* React Context
+* useReducer\(\) hook
 
