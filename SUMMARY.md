@@ -4,7 +4,7 @@
 * [Motivation](motivation.md)
 * [JavaScript is very fragile](javascript-is-very-fragile.md)
 * [The Notification Bug](the-notification-bug.md)
-* [Does I need Redux?](does-i-need-redux.md)
+* [Do I need Redux?](do-i-need-redux.md)
 * [Should I use Redux?](should-i-use-redux.md)
 * [The Cost of Redux](the-cost-of-redux.md)
 * [Why do people choose Redux before they need it?](why-do-people-choose-redux.md)
