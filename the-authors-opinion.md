@@ -22,3 +22,5 @@ Create your own picture
 
 But if you choosed to use Redux for everything i think you took this whole thing to serios.
 
+Its just one tool in our toolbox, for a very speical case.
+
