@@ -14,5 +14,9 @@ The Flux pattern solved this issue with its unidirectional data flow
 
 ![](.gitbook/assets/flux-simple-f8-diagram-1300w.png)
 
+The downside of this pattern was it required a lot of boilerplate code.
+
 But remember, this was a very special case
+
+And everything code at a price
 
