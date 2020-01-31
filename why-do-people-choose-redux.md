@@ -12,7 +12,7 @@ It is similar for developers with dependencies. They want all the shiny fancy to
 
 ![](.gitbook/assets/image%20%285%29.png)
 
-But I think there are other reasons, they want to learn them. How else can you say of yourself that you are a professional in Redux?
+But I think there are other reasons as well, educational. Being a developer means you always have to learn new things. You don't want to get left behind. How else can you say of yourself that you are a professional in Redux?
 
 Here are some other reasons I heard from people over the years:
 
