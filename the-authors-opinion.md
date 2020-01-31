@@ -18,7 +18,7 @@ Arround this time he stopped contributing to this project.
 
 There are also some twitter posts \(two years later\) where he expressed his thoughts.
 
-![](.gitbook/assets/image%20%284%29.png)
+![](.gitbook/assets/image%20%285%29.png)
 
 Create your own picture
 

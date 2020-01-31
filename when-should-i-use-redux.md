@@ -4,7 +4,7 @@ description: 'This explanation seemed strange, but think about the notifications
 
 # When should I use Redux?
 
-![](.gitbook/assets/image%20%285%29.png)
+![](.gitbook/assets/image%20%286%29.png)
 
 #### [From reduxjs/redux github page](https://github.com/reduxjs/redux#before-proceeding-further)
 
