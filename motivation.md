@@ -12,7 +12,7 @@ I have seen many projects fail, choosing complex state management solutions befo
 
 Don't worry! At some point we all fell for it, until we saw other people [questioning](https://youtu.be/Q54YDGC_t3Y?t=357) this approach.
 
-Since in every project I had to start again and again explaining why it is not a good idea to design everything in the application with redux, I wrote it down. So I can just send this link to the people.
+In every new project I had to explain all over why it is not a good idea to design everything in the application with Redux. I created this Gitbook to share my opinion when it makes sence to use Redux.
 
 Please take my opinion with a grain of salt, other developers like to create many files and I respect that.
 
