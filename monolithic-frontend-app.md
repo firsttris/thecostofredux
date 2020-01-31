@@ -8,7 +8,7 @@ description: But you choose to use Redux for everything
 
 ![](.gitbook/assets/it-has-its-453813c190.jpg)
 
-Now it's time to recruit new developers. Because you will need alot!
+Now it's time to recruit new redux developers. Because you will need alot!
 
 The new way of calculating this would be number of backened developer times two.
 
