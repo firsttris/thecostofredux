@@ -6,11 +6,13 @@ description: No it doesn't!
 
 ## Seriously! Most apps would be perfectly fine without Redux
 
-HTTP is Stateless. Means the only way to really persist information is in the URI. 
+All this affort for a stateless protocol? If the user switches a route or reloads its browser its gone.
+
+Means the only way to really persist information is in the URI. 
 
 ![](.gitbook/assets/image%20%287%29.png)
 
-One route should generally be manageable even if you hold the state in the parent component. 
+One route is generally manageable even if you hold the state in the parent component. 
 
-Believe me, im most cases this will still be more clean then a flux like architecture.
+Believe me, in most cases its still more clean then a flux like architecture.
 
