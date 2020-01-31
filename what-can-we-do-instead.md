@@ -1,5 +1,5 @@
 ---
-description: Alot
+description: Build micro frontends - not monolithic frontends
 ---
 
 # What can we do instead?
