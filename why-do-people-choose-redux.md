@@ -1,5 +1,5 @@
 ---
-description: everything in the supermarket is for free
+description: shiny fancy tools
 ---
 
 # Why do people choose Redux before they need it?
