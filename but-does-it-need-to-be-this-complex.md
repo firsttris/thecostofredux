@@ -8,7 +8,7 @@ description: No it doesn't!
 
 HTTP is Stateless. Means the only way to really persist information is in the URI. \(Reload your precious Redux app and see what's left of your complexity.\)
 
-One route should generally be manageable even if you hold you state in the parent component. 
+One route should generally be manageable even if you hold the state in the parent component. 
 
 Believe me, im most cases this will still be more clean then a flux like architecture.
 
