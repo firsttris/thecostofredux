@@ -6,17 +6,9 @@ description: 'No, you don''t!'
 
 ## Seriously! Most apps are perfectly fine without Redux
 
-Think about it, all this effort for a stateless protocol? If the user switches a route or reloads the browser everything is gone. Don't build something unnecessarily complex if you don't have to. 
+Think about it, all this effort for a stateless protocol? If the user switches a route or reloads the browser everything is gone. The only reliable way to share information is in the URI. Because you probably need the Id to fetch the data from the server on the next page.
 
 ![](.gitbook/assets/image%20%288%29.png)
 
-In general one route should be manageable, even if you hold the state in the parent component. In most cases it's more clean than a Flux like architecture.
-
-Apps have all kinds of strange requirements but in most cases its not about Flux. 
-
-Let's take the following example
-
-You have created a store to persist the filters from a dashboard. In the next sprint meeting, the customer suddenly asks that he would like to save the filters as bookmarks.
-
-In this case its required to persist the information in the URI, a store is now actually superfluous.
+One route is generally manageable, even if you hold the state in the parent component. In most cases it's still more clean than a Flux like architecture.
 
