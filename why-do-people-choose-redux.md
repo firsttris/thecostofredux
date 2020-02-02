@@ -16,13 +16,14 @@ But I think there are other reasons as well. Being a developer means you always 
 
 Another reason might be that most React developers are rather young and most likely just started a tutorial suggesting Redux would be the best practice for a well structured React app.
 
-Here are some reasons I heard in projects over the years:
+Here are some other reasons I heard in projects over the years:
 
 * They think it's structuring their application better, but React in general is structured very well.
 * They think it doesn't scale without it, but most often it doesn't scale with Redux.
 * They think it's the best practice for React, but it's not.
 * They think they might need it in the future, but they don't.
 * They think they need it for caching, but they didn't even think about cache invalidation.
+* They think they can trace their state changes better, but centralized large stores are often more confusing than many decentralized local states.
 * They think it's easier for the developers to always create the sames files, but without Redux they wouldn't even have to create those files.
 
 
