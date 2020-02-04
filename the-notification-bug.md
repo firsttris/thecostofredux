@@ -10,7 +10,7 @@ Many updates from the client as well as from the server caused the notification 
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZg7-aVRfctv-NUbESjrQJJDrn_GESCDvHByDpK-XPi_HyQ_Mr_w&s)
 
-The Flux pattern was able to solve this issue with an unidirectional data flow.
+The Flux pattern was able to solve this issue with an one way data flow.
 
 ![](.gitbook/assets/flux-simple-f8-diagram-1300w.png)
 
