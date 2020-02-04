@@ -10,7 +10,7 @@ description: You chose to use Redux for everything
 
 ![](.gitbook/assets/it-has-its-453813c190.jpg)
 
-Does this sound adventurous?
+### Does this sound adventurous?
 
 Have you recently noticed that your development team is getting slower? Now could be the time to recruit new developers. If your client has an unlimited budget it might make sense to continue this way. In the end we all have to turn a penny.
 
