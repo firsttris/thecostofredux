@@ -14,7 +14,7 @@ Here are some suggestions on when it makes sense to use Redux:
 * You need a single source of truth for your state
 * You find that keeping all your state in a top-level component is no longer sufficient
 
-#### From my experience
+#### From my expirience
 
 * When the server sends messages to the client, you would probably have some kind of message provider, which could act as global reducer, that updates the components.
 * You have many state updates from multiple places and keeping state in parent component becomes unclear.
