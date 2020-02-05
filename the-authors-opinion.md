@@ -4,7 +4,7 @@ description: Main Author Dan Abramov created a blog post on Medium
 
 # The Author's opinion
 
-For me it's important what the creator fo Redux thinks about this topic.
+Let's see what the creator fo Redux thinks about this topic.
 
 ![](.gitbook/assets/image%20%283%29.png)
 
