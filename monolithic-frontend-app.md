@@ -4,7 +4,7 @@ description: You chose to use Redux for everything
 
 # The Monolithic Frontend App
 
-## There where pretty clear instruction you choose to ignore
+## There were pretty clear instruction you chose to ignore
 
 ### And now you got a Monolithic Frontend App.
 
