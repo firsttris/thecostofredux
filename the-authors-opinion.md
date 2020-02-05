@@ -18,7 +18,7 @@ There are also some twitter posts \(two years later\) where he expressed his tho
 
 ![](.gitbook/assets/image%20%285%29.png)
 
-paint your own picture
+Paint your own picture.
 
 But if you choose to use Redux for everything without considering its trade-off's, you could have maneuvered yourself into a dead end.
 
