@@ -16,7 +16,7 @@ Have you recently noticed that your development team is getting slower? Now coul
 
 But should your client create the feeling that his software is no longer under your control and that simple features are now way to costly. It could put you in a difficult situation very quickly.
 
-At this point it might make sense to adjust your architectural approach. Maybe you should have sticked more to the [FAQ](https://redux.js.org/faq/general#when-should-i-use-redux)?
+At this point it might make sense to adjust your architectural approach. Maybe you should have sticked to the [FAQ](https://redux.js.org/faq/general#when-should-i-use-redux)?
 
 
 
