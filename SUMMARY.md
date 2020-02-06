@@ -3,7 +3,7 @@
 * [Readme](README.md)
 * [Motivation](motivation.md)
 * [JavaScript is very fragile](javascript-is-very-fragile.md)
-* [The Notification Bug](the-notification-bug.md)
+* [How did we get Redux](the-notification-bug.md)
 * [Do I need Redux?](do-i-need-redux.md)
 * [When should I use Redux?](when-should-i-use-redux.md)
 * [The Cost of Redux](the-cost-of-redux.md)

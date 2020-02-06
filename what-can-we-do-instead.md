@@ -8,7 +8,7 @@ description: Build micro frontends instead of monolithic frontends
 
 * Put as much business logic in your backend as possible.
 * Put as much transformation and mapping logic in your backend as possible.
-* You could implement [projection](https://jsonapi.org/format/#fetching-sparse-fieldsets) in your REST services.
+* If possible you could implement [projection](https://jsonapi.org/format/#fetching-sparse-fieldsets) and [selection](https://jsonapi.org/format/#fetching-filtering) in your REST services.
 
 ### On the Client Side
 
