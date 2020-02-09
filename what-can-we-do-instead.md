@@ -4,24 +4,27 @@ description: Build micro frontends instead of monolithic frontends
 
 # What can we do instead?
 
-### On the Backend Side
+### Ground Rules
+
+1. Try to hold you application clean and simple at all costs.
+2. Only use 3rd party dependencies if you encounter a problem and you cannot easily solve it with vanilla JavaScript.
+3. If you have to use 3rd party, stick 100% to the documentation.
+
+### Backend
 
 * Put as much business logic in your backend as possible.
 * Put as much transformation and mapping logic in your backend as possible.
-* If possible you could implement [projection](https://jsonapi.org/format/#fetching-sparse-fieldsets) and [selection](https://jsonapi.org/format/#fetching-filtering) in your REST services.
+* You could implement [projection](https://jsonapi.org/format/#fetching-sparse-fieldsets) in your REST services.
 
-### On the Client Side
+### Client
 
 * Always start without Redux or any other state management solution.
-* Create one class which contains your API calls.
-* Do your API calls in componentDidMount\(\) or UseEffect\(\) and hold the state in the component \(Smart Component\).
+* Do your API calls in componentDidMount\(\) or UseEffect\(\) and hold the state in the Component \(Smart Component\).
 * Try to use [Component Composition](https://reactjs.org/docs/composition-vs-inheritance.html) to reverse the flow of control whenever needed.
 * You can persist information in the URI, and it will always be the better way, simply because http is stateless.
 * For Security you can use [ProtectedRoutes](https://reacttraining.com/react-router/native/example/auth-workflow).
 
-
-
-And if there really is no way around it you could still use
+### There is no way around global state
 
 * React Context
 * useReducer\(\) hook
