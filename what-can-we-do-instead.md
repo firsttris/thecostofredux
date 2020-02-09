@@ -7,8 +7,8 @@ description: Build micro frontends instead of monolithic frontends
 ### Ground Rules
 
 1. Try to hold you application clean and simple at all costs.
-2. Only use 3rd party dependencies if you encounter a problem and you cannot easily solve it with vanilla JavaScript.
-3. If you have to use 3rd party, stick 100% to the documentation.
+2. Only use 3rd party dependencies if you encounter a problem you cannot easily solve with vanilla JavaScript.
+3. Don't create your own library, stick to the documentation.
 
 ### Backend
 
