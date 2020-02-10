@@ -4,11 +4,11 @@ description: Build micro frontends instead of monolithic frontends
 
 # What can we do instead?
 
-### Ground Rules
+### Some Ground Rules
 
-1. Try to hold you application clean and simple at all costs.
-2. Only use 3rd party dependencies if you encounter a problem you cannot easily solve with vanilla JavaScript.
-3. Don't create your own library, stick to the documentation.
+1. Try to keep your application clean and simple at all costs.
+2. Only use 3rd party dependencies if you encounter a problem you cannot solve.
+3. Don't create your own soup, stick to the documentation.
 
 ### Backend
 
