@@ -18,11 +18,11 @@ description: Build micro frontends instead of monolithic frontends
 
 ### Client
 
-* Always start without Redux or any other state management solution.
-* Don't start with any other premature optimization.
-* Start as simple as possible and go from there...
+* Start as simple as possible and go from there... 
+  * Always start without Redux or any other state management solution
+  * Don't start with any other premature optimization.
 * Do your API calls in componentDidMount\(\) or UseEffect\(\) and hold the state in the Component \(Smart Component\).
-* Try to use [Component Composition](https://reactjs.org/docs/composition-vs-inheritance.html) to reverse the flow of control whenever needed.
+* Try to use [Component Composition](https://reactjs.org/docs/composition-vs-inheritance.html) to reverse the flow of control.
 * You can persist information in the URI, and it will always be the better way, simply because http is stateless.
 * For Security you can use [ProtectedRoutes](https://reacttraining.com/react-router/native/example/auth-workflow).
 
