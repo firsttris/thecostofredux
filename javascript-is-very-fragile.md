@@ -10,7 +10,7 @@ Try to keep you application clean and simple, so you can easily adapt to changes
 
 One of the most important things about your application \(besides that it solves the usecase\) is that others understand it well. Because at some point someone else will probably have to maintain what you build today. Don't try to create something unnecessarily complex or particularly clever.
 
-Keep in mind that you need to refactor your project at some point and that code complexity is one of the nastiest things that can happen to your project.
+Keep in mind that at some point your will need to refactor your project and that code complexity is one of the worst things that can happen to your project.
 
 
 
