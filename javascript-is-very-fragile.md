@@ -8,7 +8,7 @@ Try to keep you application clean and simple, so you can easily adapt to changes
 
 ![](.gitbook/assets/screenshot_20200129_221617.png)
 
-One of the most important things about your application \(besides that it solves the usecase\) is that others understand it well. Because at some point someone else will probably have to maintain or change what you build today. Don't try to create something unnecessarily complex or particularly clever. Code complexity is one of the worst things that can happen to your project.
+One of the most important things about your application \(besides that it solves the usecase\) is that others understand it well. Because at some point someone else will probably have to maintain or change what you build today. Don't try to create something unnecessarily complex or particularly clever. Because code complexity is one of the worst things that can happen to your project.
 
 
 
