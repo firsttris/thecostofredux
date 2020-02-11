@@ -6,8 +6,8 @@ description: Build micro frontends instead of monolithic frontends
 
 ### In General
 
-1. Try to keep your application clean and simple at all costs.
-2. Try to minimize 3rd party dependencies.
+1. Keep your application clean and simple at all costs.
+2. Minimize 3rd party dependencies.
 3. Don't create your own soup, stick to the documentation.
 
 ### Backend
