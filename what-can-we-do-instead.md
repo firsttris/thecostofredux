@@ -4,10 +4,10 @@ description: Build micro frontends instead of monolithic frontends
 
 # What can we do instead?
 
-### In General
+### Some Ground Rules
 
-1. Keep your application clean and simple at all costs.
-2. Minimize 3rd party dependencies.
+1. Try to keep your application clean and simple at all costs.
+2. Only use 3rd party dependencies if you encounter a problem you cannot solve.
 3. Don't create your own soup, stick to the documentation.
 
 ### Backend
@@ -18,11 +18,11 @@ description: Build micro frontends instead of monolithic frontends
 
 ### Client
 
-* Start as simple as possible and go from there... 
-  * Always start without Redux or any other state management solution
-  * Don't start with any other premature optimization.
+* Always start without Redux or any other state management solution.
+* Don't start with any other premature optimization.
+* Start as simple as possible and go from there...
 * Do your API calls in componentDidMount\(\) or UseEffect\(\) and hold the state in the Component \(Smart Component\).
-* Try to use [Component Composition](https://reactjs.org/docs/composition-vs-inheritance.html) to reverse the flow of control.
+* Try to use [Component Composition](https://reactjs.org/docs/composition-vs-inheritance.html) to reverse the flow of control whenever needed.
 * You can persist information in the URI, and it will always be the better way, simply because http is stateless.
 * For Security you can use [ProtectedRoutes](https://reacttraining.com/react-router/native/example/auth-workflow).
 
