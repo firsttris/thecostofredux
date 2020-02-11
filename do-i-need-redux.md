@@ -6,13 +6,13 @@ description: 'No, you don''t!'
 
 ## Seriously! Most apps are perfectly fine without Redux
 
-Think about it, all this effort for a stateless protocol? If the user switches a route or reloads the browser all state which is not persistent in the url is gone. Don't build something unnecessarily complex if you don't have to. 
+Think about it, all this effort for a stateless protocol? If the user switches a route or reloads the browser all state, which is not persistent in the url, is gone. Don't build something unnecessarily complex, if you don't have to. 
 
 ![](.gitbook/assets/image%20%288%29.png)
 
-In general one route should be manageable, if you hold the state in the parent component. In most cases it's more clean and simpler to understand than a Flux like architecture.
+In general, one route should be manageable, if you hold the state in the parent component. In most cases it's more clean and easier to understand than a Flux like architecture.
 
-Apps have all kinds of strange requirements but in most cases not about Redux. 
+Apps have all kinds of strange requirements but in most cases Flux is not the answer to the problem.
 
 Imagine the following case:
 
