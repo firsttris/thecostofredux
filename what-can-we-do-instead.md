@@ -4,10 +4,10 @@ description: Build micro frontends instead of monolithic frontends
 
 # What can we do instead?
 
-### Some Ground Rules
+### In General
 
 1. Try to keep your application clean and simple at all costs.
-2. Only use 3rd party dependencies if you encounter a problem you cannot solve.
+2. Try to minimize 3rd party dependencies.
 3. Don't create your own soup, stick to the documentation.
 
 ### Backend
